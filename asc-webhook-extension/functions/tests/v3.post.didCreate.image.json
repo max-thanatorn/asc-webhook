@@ -1,0 +1,229 @@
+{
+   "event": "v3.post.didCreate",
+   "data": {
+      "posts": [
+         {
+            "sharedCount": 0,
+            "targetType": "community",
+            "dataType": "text",
+            "commentsCount": 0,
+            "editedAt": "2021-08-08T06:27:55.050Z",
+            "createdAt": "2021-08-08T06:27:55.050Z",
+            "updatedAt": "2021-08-08T06:27:55.074Z",
+            "isDeleted": false,
+            "hasFlaggedComment": false,
+            "hasFlaggedChildren": false,
+            "data": {
+               "text": "Which style should I go for?"
+            },
+            "postId": "d8af4ecf550cb25013807e98a262fdab",
+            "postedUserId": "foobar@amity.co",
+            "targetId": "4e1a62eed3e9ab523aa0c9c26f37070f",
+            "flagCount": 0,
+            "hashFlag": null,
+            "reactions": {},
+            "reactionsCount": 0,
+            "myReactions": [],
+            "comments": [],
+            "children": [
+               "147029eb7bd36f00f885d346ba1e0660"
+            ],
+            "feedId": "1621823670367392e64ef872f4802830625c5cc9f10ba"
+         }
+      ],
+      "postChildren": [
+         {
+            "sharedCount": 0,
+            "targetType": "community",
+            "dataType": "image",
+            "commentsCount": 0,
+            "editedAt": "2021-08-08T06:27:55.066Z",
+            "createdAt": "2021-08-08T06:27:55.066Z",
+            "updatedAt": "2021-08-08T06:27:55.066Z",
+            "isDeleted": false,
+            "hasFlaggedComment": false,
+            "hasFlaggedChildren": false,
+            "data": {
+               "fileId": "6bc3e9113ee942e2b7b76d74445d4bd7"
+            },
+            "postId": "147029eb7bd36f00f885d346ba1e0660",
+            "parentPostId": "d8af4ecf550cb25013807e98a262fdab",
+            "postedUserId": "foobar@amity.co",
+            "targetId": "4e1a62eed3e9ab523aa0c9c26f37070f",
+            "flagCount": 0,
+            "hashFlag": null,
+            "reactions": {},
+            "reactionsCount": 0,
+            "myReactions": [],
+            "comments": [],
+            "children": [],
+            "feedId": "1621823670367392e64ef872f4802830625c5cc9f10ba"
+         }
+      ],
+      "comments": [],
+      "users": [
+         {
+            "updatedAt": "2021-08-07T18:41:38.508Z",
+            "createdAt": "2021-05-20T04:44:42.334Z",
+            "displayName": "Foo Bar",
+            "userId": "foobar@amity.co",
+            "metadata": {},
+            "roles": [],
+            "permissions": [],
+            "flagCount": 0,
+            "hashFlag": null,
+            "avatarFileId": null
+         },
+         {
+            "updatedAt": "2021-05-24T14:51:57.470Z",
+            "createdAt": "2021-05-21T05:50:38.493Z",
+            "displayName": "Lauren Feille",
+            "userId": "lauren@amity.co",
+            "metadata": {
+               "avatarCustomUrl": "https://sandbox1.dev.amity.co/images/avatar/lauren.jpg"
+            },
+            "roles": [],
+            "permissions": [],
+            "flagCount": 0,
+            "hashFlag": null,
+            "avatarFileId": "106cf8fa004a417ca9d94f3d1d92ec55"
+         }
+      ],
+      "files": [
+         {
+            "fileId": "6bc3e9113ee942e2b7b76d74445d4bd7",
+            "fileUrl": "https://api.amity.co/api/v3/files/6bc3e9113ee942e2b7b76d74445d4bd7/download",
+            "type": "image",
+            "createdAt": "2021-08-08T06:27:45.704Z",
+            "updatedAt": "2021-08-08T06:27:55.093Z",
+            "attributes": {
+               "name": "download.jpeg",
+               "extension": "jpg",
+               "size": 14502,
+               "mimeType": "image/jpeg",
+               "metadata": {
+                  "height": 225,
+                  "width": 225,
+                  "isFull": false
+               }
+            }
+         },
+         {
+            "fileId": "5aa221efe74946a8ab363f7e8f9e2528",
+            "fileUrl": "https://api.amity.co/api/v3/files/5aa221efe74946a8ab363f7e8f9e2528/download",
+            "type": "image",
+            "createdAt": "2021-05-24T14:23:02.639Z",
+            "updatedAt": "2021-05-24T14:23:08.835Z",
+            "attributes": {
+               "name": "istockphoto-626085868-612x612.jpeg",
+               "extension": "jpeg",
+               "size": 55406,
+               "mimeType": "image/jpeg",
+               "metadata": {
+                  "height": 408,
+                  "width": 612,
+                  "isFull": false
+               }
+            }
+         },
+         {
+            "fileId": "4cd4de480a5849f587500a7b8b480a96",
+            "fileUrl": "https://api.amity.co/api/v3/files/4cd4de480a5849f587500a7b8b480a96/download",
+            "type": "image",
+            "createdAt": "2021-05-24T15:16:16.533Z",
+            "updatedAt": "2021-05-24T15:16:16.716Z",
+            "attributes": {
+               "name": "category.png",
+               "extension": "png",
+               "size": 99277,
+               "mimeType": "image/png",
+               "metadata": {
+                  "height": 602,
+                  "width": 626,
+                  "isFull": false
+               }
+            }
+         },
+         {
+            "fileId": "106cf8fa004a417ca9d94f3d1d92ec55",
+            "fileUrl": "https://api.amity.co/api/v3/files/106cf8fa004a417ca9d94f3d1d92ec55/download",
+            "type": "image",
+            "createdAt": "2021-05-24T14:51:57.380Z",
+            "updatedAt": "2021-05-24T14:51:57.475Z",
+            "attributes": {
+               "name": "lauren.jpg",
+               "extension": "jpg",
+               "size": 30132,
+               "mimeType": "image/jpeg",
+               "metadata": {
+                  "height": 2500,
+                  "width": 1667,
+                  "isFull": false
+               }
+            }
+         }
+      ],
+      "communities": [
+         {
+            "description": "A community of men who love to dress up nice, stay up to date on the latest trends, and exchange with other fashion enthusiasts.",
+            "isOfficial": false,
+            "isPublic": true,
+            "onlyAdminCanPost": false,
+            "postsCount": 5,
+            "membersCount": 10,
+            "updatedAt": "2021-08-08T06:26:57.205Z",
+            "createdAt": "2021-05-21T09:11:50.322Z",
+            "isDeleted": false,
+            "displayName": "Men In Style",
+            "tags": [],
+            "metadata": {},
+            "hasFlaggedComment": false,
+            "hasFlaggedPost": false,
+            "communityId": "4e1a62eed3e9ab523aa0c9c26f37070f",
+            "channelId": "228a977ae7f04eef8db3d9d8b6f83462",
+            "userId": "lauren@amity.co",
+            "isJoined": true,
+            "avatarFileId": "5aa221efe74946a8ab363f7e8f9e2528",
+            "categoryIds": [
+               "02a79661a5ec2b8a57ef6ead7672c09a"
+            ]
+         }
+      ],
+      "categories": [
+         {
+            "name": "Fashion",
+            "updatedAt": "2021-05-24T15:16:16.712Z",
+            "createdAt": "2021-05-20T04:46:37.822Z",
+            "isDeleted": false,
+            "categoryId": "02a79661a5ec2b8a57ef6ead7672c09a",
+            "avatarFileId": "4cd4de480a5849f587500a7b8b480a96"
+         }
+      ],
+      "communityUsers": [
+         {
+            "communityMembership": "member",
+            "lastActivity": "2021-08-08T06:26:57.182Z",
+            "updatedAt": "2021-08-08T06:26:57.182Z",
+            "createdAt": "2021-08-08T06:26:57.182Z",
+            "isBanned": false,
+            "userId": "foobar@amity.co",
+            "communityId": "4e1a62eed3e9ab523aa0c9c26f37070f",
+            "channelId": "228a977ae7f04eef8db3d9d8b6f83462",
+            "roles": [],
+            "permissions": []
+         }
+      ],
+      "feeds": [
+         {
+            "targetType": "community",
+            "targetId": "4e1a62eed3e9ab523aa0c9c26f37070f",
+            "feedType": "published",
+            "feedId": "1621823670367392e64ef872f4802830625c5cc9f10ba",
+            "postCount": 5,
+            "createdAt": "2021-05-24T02:34:30.363Z",
+            "updatedAt": "2021-08-08T06:27:55.097Z"
+         }
+      ],
+      "videoStreamings": []
+   }
+}

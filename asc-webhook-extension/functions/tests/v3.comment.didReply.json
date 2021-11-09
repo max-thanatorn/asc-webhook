@@ -1,0 +1,47 @@
+{
+    "event": "v3.comment.didReply",
+    "data": {
+        "comments": [
+            {
+                "referenceType": "post",
+                "dataType": "text",
+                "data": {
+                    "text": "this is reply to comment"
+                },
+                "metadata": {},
+                "childrenNumber": 0,
+                "isDeleted": false,
+                "editedAt": "2021-08-08T04:36:13.069Z",
+                "updatedAt": "2021-08-08T04:36:13.069Z",
+                "createdAt": "2021-08-08T04:36:13.069Z",
+                "segmentNumber": 2,
+                "commentId": "305db7378224185996670bf046c8d4a3",
+                "userId": "foobar@amity.co",
+                "referenceId": "0cc77cedbf07c59cca5981a38c6251ad",
+                "parentId": "d8fecc04b5c680a290bb4bbd745c7572",
+                "rootId": "d8fecc04b5c680a290bb4bbd745c7572",
+                "flagCount": 0,
+                "hashFlag": null,
+                "children": [],
+                "reactions": {},
+                "reactionsCount": 0
+            }
+        ],
+        "commentChildren": [],
+        "users": [
+            {
+                "updatedAt": "2021-08-07T18:41:38.508Z",
+                "createdAt": "2021-05-20T04:44:42.334Z",
+                "displayName": "Foo Bar",
+                "userId": "foobar@amity.co",
+                "metadata": {},
+                "roles": [],
+                "permissions": [],
+                "flagCount": 0,
+                "hashFlag": null,
+                "avatarFileId": null
+            }
+        ],
+        "files": []
+    }
+}

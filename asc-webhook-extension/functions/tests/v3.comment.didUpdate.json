@@ -1,0 +1,70 @@
+{
+    "event": "v3.comment.didUpdate",
+    "data": {
+        "comments": [
+            {
+                "referenceType": "post",
+                "dataType": "text",
+                "data": {
+                    "text": "Hello 2 3"
+                },
+                "childrenNumber": 1,
+                "isDeleted": false,
+                "editedAt": "2021-08-08T04:45:54.946Z",
+                "updatedAt": "2021-08-08T04:45:54.947Z",
+                "createdAt": "2021-08-08T04:45:33.976Z",
+                "segmentNumber": 3,
+                "commentId": "c80f5d6fe839ce10155adcc8dc36a690",
+                "userId": "foobar@amity.co",
+                "referenceId": "0cc77cedbf07c59cca5981a38c6251ad",
+                "flagCount": 0,
+                "hashFlag": null,
+                "children": [
+                    "0cdff3e50fbdbc7f00e6ca36dd069c7e"
+                ],
+                "reactions": {},
+                "reactionsCount": 0
+            }
+        ],
+        "commentChildren": [
+            {
+                "referenceType": "post",
+                "dataType": "text",
+                "data": {
+                    "text": "Hello reply 2"
+                },
+                "childrenNumber": 0,
+                "isDeleted": false,
+                "editedAt": "2021-08-08T04:45:50.017Z",
+                "updatedAt": "2021-08-08T04:45:50.016Z",
+                "createdAt": "2021-08-08T04:45:50.016Z",
+                "segmentNumber": 4,
+                "commentId": "0cdff3e50fbdbc7f00e6ca36dd069c7e",
+                "userId": "foobar@amity.co",
+                "referenceId": "0cc77cedbf07c59cca5981a38c6251ad",
+                "parentId": "c80f5d6fe839ce10155adcc8dc36a690",
+                "rootId": "c80f5d6fe839ce10155adcc8dc36a690",
+                "flagCount": 0,
+                "hashFlag": null,
+                "children": [],
+                "reactions": {},
+                "reactionsCount": 0
+            }
+        ],
+        "users": [
+            {
+                "updatedAt": "2021-08-07T18:41:38.508Z",
+                "createdAt": "2021-05-20T04:44:42.334Z",
+                "displayName": "Foo Bar",
+                "userId": "foobar@amity.co",
+                "metadata": {},
+                "roles": [],
+                "permissions": [],
+                "flagCount": 0,
+                "hashFlag": null,
+                "avatarFileId": null
+            }
+        ],
+        "files": []
+    }
+}

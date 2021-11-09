@@ -1,0 +1,81 @@
+{
+   "event": "v3.post.didUpdate",
+   "data": {
+      "posts": [
+         {
+            "sharedCount": 0,
+            "targetType": "user",
+            "dataType": "text",
+            "commentsCount": 1,
+            "editedAt": "2021-08-08T04:45:44.079Z",
+            "createdAt": "2021-08-08T04:13:42.371Z",
+            "updatedAt": "2021-08-08T04:45:44.079Z",
+            "isDeleted": false,
+            "hasFlaggedComment": false,
+            "hasFlaggedChildren": false,
+            "data": {
+               "text": "Excited for the new summer collections2!!!"
+            },
+            "postId": "0cc77cedbf07c59cca5981a38c6251ad",
+            "postedUserId": "foobar@amity.co",
+            "targetId": "foobar@amity.co",
+            "flagCount": 0,
+            "hashFlag": null,
+            "reactions": {
+               "like": 1
+            },
+            "reactionsCount": 1,
+            "myReactions": [
+               "like"
+            ],
+            "comments": [
+               "c80f5d6fe839ce10155adcc8dc36a690"
+            ],
+            "children": []
+         }
+      ],
+      "postChildren": [],
+      "comments": [
+         {
+            "referenceType": "post",
+            "dataType": "text",
+            "data": {
+               "text": "Hello 2"
+            },
+            "childrenNumber": 0,
+            "isDeleted": false,
+            "editedAt": "2021-08-08T04:45:33.976Z",
+            "updatedAt": "2021-08-08T04:45:33.976Z",
+            "createdAt": "2021-08-08T04:45:33.976Z",
+            "segmentNumber": 3,
+            "commentId": "c80f5d6fe839ce10155adcc8dc36a690",
+            "userId": "foobar@amity.co",
+            "referenceId": "0cc77cedbf07c59cca5981a38c6251ad",
+            "flagCount": 0,
+            "hashFlag": null,
+            "children": [],
+            "reactions": {},
+            "reactionsCount": 0
+         }
+      ],
+      "users": [
+         {
+            "updatedAt": "2021-08-07T18:41:38.508Z",
+            "createdAt": "2021-05-20T04:44:42.334Z",
+            "displayName": "Foo Bar",
+            "userId": "foobar@amity.co",
+            "metadata": {},
+            "roles": [],
+            "permissions": [],
+            "flagCount": 0,
+            "hashFlag": null,
+            "avatarFileId": null
+         }
+      ],
+      "files": [],
+      "categories": [],
+      "communityUsers": [],
+      "feeds": [],
+      "videoStreamings": []
+   }
+}

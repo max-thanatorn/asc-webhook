@@ -1,0 +1,129 @@
+{
+    "event": "v3.post.didAddReaction",
+    "data": {
+        "posts": [
+            {
+                "sharedCount": 0,
+                "targetType": "user",
+                "dataType": "text",
+                "commentsCount": 0,
+                "editedAt": "2021-08-11T06:38:56.774Z",
+                "createdAt": "2021-08-11T06:38:56.774Z",
+                "updatedAt": "2021-08-11T06:38:56.840Z",
+                "isDeleted": false,
+                "hasFlaggedComment": false,
+                "hasFlaggedChildren": false,
+                "data": {
+                    "text": "The current state of my life 😆"
+                },
+                "postId": "6118eda40123bd18ca753a0874e23fc6",
+                "postedUserId": "59d1bfd4355d8400016fbf35",
+                "targetId": "59d1bfd4355d8400016fbf35",
+                "flagCount": 0,
+                "hashFlag": null,
+                "reactions": {
+                    "like": 1
+                },
+                "reactionsCount": 1,
+                "myReactions": [
+                    "like"
+                ],
+                "comments": [],
+                "children": [
+                    "99455ec4447504bb7f0b2ad72582a0b3"
+                ]
+            }
+        ],
+        "postChildren": [
+            {
+                "sharedCount": 0,
+                "targetType": "user",
+                "dataType": "image",
+                "commentsCount": 0,
+                "editedAt": "2021-08-11T06:38:56.832Z",
+                "createdAt": "2021-08-11T06:38:56.832Z",
+                "updatedAt": "2021-08-11T06:38:56.832Z",
+                "isDeleted": false,
+                "hasFlaggedComment": false,
+                "hasFlaggedChildren": false,
+                "data": {
+                    "fileId": "b285481c9d8441ccbf0c2bcfa11d3a52"
+                },
+                "postId": "99455ec4447504bb7f0b2ad72582a0b3",
+                "parentPostId": "6118eda40123bd18ca753a0874e23fc6",
+                "postedUserId": "59d1bfd4355d8400016fbf35",
+                "targetId": "59d1bfd4355d8400016fbf35",
+                "flagCount": 0,
+                "hashFlag": null,
+                "reactions": {},
+                "reactionsCount": 0,
+                "myReactions": [],
+                "comments": [],
+                "children": []
+            }
+        ],
+        "comments": [],
+        "users": [
+            {
+                "updatedAt": "2021-08-11T06:37:42.330Z",
+                "createdAt": "2021-02-18T06:56:12.657Z",
+                "displayName": "Pornpawee (Mai) Assawataevin",
+                "userId": "59d1bfd4355d8400016fbf35",
+                "metadata": {},
+                "roles": [],
+                "permissions": [],
+                "flagCount": 0,
+                "hashFlag": null,
+                "avatarFileId": "6f1abc9a33594c7fbd75713c678ea0ee"
+            }
+        ],
+        "files": [
+            {
+                "fileId": "b285481c9d8441ccbf0c2bcfa11d3a52",
+                "fileUrl": "https://api.amity.co/api/v3/files/b285481c9d8441ccbf0c2bcfa11d3a52/download",
+                "type": "image",
+                "createdAt": "2021-08-11T06:38:18.636Z",
+                "updatedAt": "2021-08-11T06:38:56.849Z",
+                "attributes": {
+                    "name": "1e8fc7979b6eab2a8dfdc0dd881b8911.jpeg",
+                    "extension": "jpg",
+                    "size": 47255,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "height": 1200,
+                        "width": 1200,
+                        "isFull": false
+                    }
+                }
+            },
+            {
+                "fileId": "6f1abc9a33594c7fbd75713c678ea0ee",
+                "fileUrl": "https://api.amity.co/api/v3/files/6f1abc9a33594c7fbd75713c678ea0ee/download",
+                "type": "image",
+                "createdAt": "2021-08-11T06:37:42.282Z",
+                "updatedAt": "2021-08-11T06:37:42.338Z",
+                "attributes": {
+                    "name": "1803b10e-36b7-4477-8bf2-eade2ca42643",
+                    "extension": "jpg",
+                    "size": 80517,
+                    "mimeType": "image/jpeg",
+                    "metadata": {
+                        "height": 1124,
+                        "width": 1500,
+                        "isFull": false
+                    }
+                }
+            }
+        ],
+        "categories": [],
+        "communityUsers": [],
+        "feeds": [],
+        "videoStreamings": [],
+        "reactor": {
+            "reactionName": "like",
+            "userId": "5ed096f66a720b254780c481",
+            "reactionId": "61137294072a5707915932a9",
+            "createdAt": "2021-08-11T06:47:48.574Z"
+        }
+    }
+}
